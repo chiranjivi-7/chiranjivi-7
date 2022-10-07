@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiranjivi</h1>
 <h3 align="center">A passionate Java developer</h3>
-img align="right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif"
+<img align="right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjivi-7&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjivi-7" /> </p>
 
@@ -35,4 +35,5 @@ img align="right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en" alt="chiranjivi-7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&" alt="chiranjivi-7" /></p>
+
 
