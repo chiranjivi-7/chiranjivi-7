@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm Chiranjivi</h1>
-<h3 align="center">A passionate Java developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Chiranjivi Pattanayak</h1>
+<h3 align="center">Software Developer from Balasore, Odisha (India)</h3>
 
-- 🔭 I’m currently working on **Learning Java**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=DC143C&width=650&height=80&lines=Backend+%26+Java+Developer+;Passionate+to+develop+scalable+products+;Always+learning+new+things;&center=true&width=640&height=45&vCenter=true&size=25" />
+</p>
 
-- 🌱 I’m currently learning **Core Java,Frameworks,Lamda Expressions etc.**
+<!-- <p>
+<img align="center" width="250px" height="190px" src="https://github.com/chiranjivi-7/chiranjivi-7/blob/main/codegif.gif?raw=true" alt="GIF" />
+</p> -->
 
-- 🤝 I’m looking for help with **Knowledge**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Core Java**
+<img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="300" height='180'>
 
-- 📫 How to reach me **chiranjivipattanayak@gmail.com**
 
-- 📄 Know about my experiences [Have a long 6.5+ years of experience in Sales Domain.](Have a long 6.5+ years of experience in Sales Domain.)
+- 💻 I’m a Backend & Java Developer</hr>
 
-- ⚡ Fun fact **I always like to smile.**
+- 🌱 I’m currently learning **Spring Boot**
+
+- 💬 Ask me about anything, I am happy to help
+
+- 📫 Reach out to me on **chiranjivipattanayak@gmail.com**
+
+- ⚡ In my leisure time, **I love to watch cricket**
+
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chiranjivi93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiranjivi93" height="30" width="40" /></a>
+<a href="linkedin.com/in/chiranjivi-pattanayak-b02784197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abinash2601" height="30" width="40" /></a>
 </p>
 
+<hr />
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact" alt="chiranjivi-7" /></p>
+<hr />
+<!-- 
+<h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en" alt="chiranjivi-7" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&theme=radical&locale=en&layout=compact" alt="chiranjivi-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&" alt="chiranjivi-7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&theme=radical&locale=en" alt="chiranjivi-7" /></p> -->
+
+
+<!-- <p align="center">
+  <img align="center" height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p> -->
+
+
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="chiranjivi-7" /></p>
+
+<p align="center">
+  <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" /> -->
+<!-- </p> -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiranjivi-7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" alt="chiranjivi-7" /></p> -->
+
+
+<!-- <hr /> -->
+
+<h3 align="center">Want To Get In Touch? Reach Out To Me On 👇</h3>
+  
+  <p align="center">
+    <a href="mailto:chiranjivipattanayak@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://linkedin.com/in/chiranjivi-pattanayak-b02784197"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <p align="center"> <img src="https://gpvc.arturio.dev/chiranjivi-7" alt="chiranjivi-7" /> </p>
+  
+</p>
