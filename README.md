@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Balasore, Odisha (India)</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things;&center=true&width=640&height=45&vCenter=true&size=25" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things+;Quick+Learner;&center=true&width=640&height=45&vCenter=true&size=25" />
 </p>
 
 <!-- <p>
@@ -56,6 +56,12 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" alt="chiranjivi-7" /></p> -->
 
+<br/>
+
+<a href="https://github.com/chiranjivi-7/github-readme-activity-graph"><img alt="Chiranjivi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiranjivi-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
 
 <hr />
 
@@ -68,3 +74,6 @@
 <!--   <p align="center"> <img src="https://gpvc.arturio.dev/chiranjivi-7" alt="chiranjivi-7" /> </p> -->
   
 </p>
+
+
+
