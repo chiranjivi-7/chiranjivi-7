@@ -48,8 +48,8 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="chiranjivi-7" /></p>
-<p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
+<!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p> -->
 <!-- 
   <a   href="https://github.com/akash-github-25/github-readme-stats"><img alt="Akash Mishra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-github-25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
