@@ -19,6 +19,10 @@
 
 - 💬 Ask me about Java, Javascript, HTML, CSS, MySQL, I am happy to help
 
+- 👨‍💻 All of my projects are available at [My Portfolio](https://chiranjivi-7.github.io/)
+
+- 📄 Know About Me [My Resume](https://drive.google.com/file/d/12-kp-F7pAitek69NJfXK3JGUIiVpKxHC/view?usp=sharing)
+
 - 📫 Reach out to me on **chiranjivipattanayak@gmail.com**
 
 - ⚡ In my leisure time, **I love to watch cricket**
