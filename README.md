@@ -10,7 +10,7 @@
 </p> -->
 
 
-<img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="330" height='230'>
+<img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="320" height='230'>
 
 
 - 💻 I’m a Java Backend Developer</hr>
