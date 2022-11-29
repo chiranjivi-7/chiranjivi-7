@@ -55,8 +55,10 @@
 <!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p> -->
 
-  <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
+  
+<!--   https://github-readme-stats.vercel.app/api?username=[your username] -->
 
 <!-- <p align="center">
   <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" />
