@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&color=white&width=650&height=80&lines=Java+Backend+Developer+;Passionate+To+Develop+Scalable+Products+;Always+Learning+New+Things+;Quick+Learner;&center=true&width=640&height=45&vCenter=true&size=25" />
 </p>
 
-<!-- <p>
-<img align="center" width="250px" height="190px" src="https://github.com/chiranjivi-7/chiranjivi-7/blob/main/codegif.gif?raw=true" alt="GIF" />
-</p> -->
-
 
 <img align='right' src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="320" height='230'>
 
@@ -42,38 +38,12 @@
 
 <hr />
 <h3 align="center">Chiranjivi Pattanayak's GitHub Stats:</h3>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&theme=radical&locale=en&layout=compact" alt="chiranjivi-7" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&theme=radical&locale=en" alt="chiranjivi-7" /></p> -->
-
-<!--  <p align="center">
-  <img align="center" height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p> -->
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiranjivi-7&theme=radical" alt="chiranjivi-7" /></p>
-<!-- <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p> -->
 
   <p align="center"><a  href="https://github.com/chiranjivi-7/github-readme-stats"><img alt="Chiranjivi's Top Languages" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-  
-<!--   https://github-readme-stats.vercel.app/api?username=[your username] -->
-
-<!-- <p align="center">
-  <img  align="center"  height= "200px" width ="500px" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" />
-</p>  -->
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiranjivi-7&show_icons=true&locale=en&layout=compact&theme=radical" alt="chiranjivi-7" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiranjivi-7&show_icons=true&locale=en&theme=radical" alt="chiranjivi-7" /></p> -->
-
-<!-- <br/>
-
-<a href="https://github.com/chiranjivi-7/github-readme-activity-graph"><img alt="Chiranjivi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiranjivi-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/> -->
-
 
 <hr />
 
@@ -82,9 +52,7 @@
   <p align="center">
     <a href="mailto:chiranjivipattanayak@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://linkedin.com/in/chiranjivi-pattanayak-b02784197"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-<!--   <p align="center"> <img src="https://gpvc.arturio.dev/chiranjivi-7" alt="chiranjivi-7" /> </p> -->
-  
+    
 </p>
 
 
